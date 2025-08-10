@@ -2,18 +2,13 @@
   <img height="320" src="gif/goku.gif"  />
 </div>
 
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=meharajhasnain.meharajhasnain&"  />
-</div>
-
 ###
 
 <h1 align="center">Hi, I’m Meharaj Hasnain 👋</h1>
 
 ###
 
-<p align="left">I’m a Computer Science & Engineering undergraduate from Bangladesh, passionate about software development, problem solving, and building meaningful tech solutions.<br><br>- 🔍 I’m also interested in the research field, especially in ML and DL.<br>- 🎯 I'm currently learning Flutter to build cross-platform mobile apps.<br>-🚀 Enthusiastic about open-source contributions and real-world projects.</p>
+<h3 align="left">I’m a Computer Science & Engineering undergraduate from Bangladesh, passionate about software development, problem solving, and building meaningful tech solutions.<br><br>- 🔍 I’m also interested in the research field, especially in ML and DL.<br>- 🎯 I'm currently learning Flutter to build cross-platform mobile apps.<br>-🚀 Enthusiastic about open-source contributions and real-world projects.</h3>
 
 ###
 
@@ -64,7 +59,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img href = "https://www.linkedin.com/in/meharajhasnain/" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
