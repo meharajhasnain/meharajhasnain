@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -42,13 +42,21 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=meharajhasnain&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meharajhasnain/meharajhasnain/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meharajhasnain/meharajhasnain/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/meharajhasnain/meharajhasnain/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
