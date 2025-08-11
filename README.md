@@ -8,7 +8,9 @@
 
 ###
 
-<h3 align="left">I’m a Computer Science & Engineering undergraduate from Bangladesh, passionate about software development, problem solving, and building meaningful tech solutions.<br><br>- 🔍 I’m also interested in the research field, especially in ML and DL.<br>- 🎯 I'm currently learning Flutter to build cross-platform mobile apps.<br>-🚀 Enthusiastic about open-source contributions and real-world projects.</h3>
+<h3 align="left">I’m a Computer Science & Engineering undergraduate from Bangladesh, passionate about software development, problem solving, and building meaningful tech solutions.<br><br></h3>
+  
+<p>- 🔍 I’m also interested in the research field, especially in ML and DL.<br>- 🎯 I'm currently learning Flutter to build cross-platform mobile apps.<br>-🚀 Enthusiastic about open-source contributions and real-world projects.</p>
 
 ###
 
