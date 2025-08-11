@@ -63,7 +63,7 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=meharajhasnain.meharajhasnain&"  />
-  [![LinkedIn Connect](gif/linkedin.png)]
+  [![LinkedIn Connect](gif/linkedin.png)](https://www.linkedin.com/in/meharajhasnain/)
 </div>
 
 ###
