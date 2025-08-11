@@ -63,7 +63,9 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=meharajhasnain.meharajhasnain&"  />
-  [![LinkedIn Connect](gif/linkedin.png)](https://www.linkedin.com/in/meharajhasnain/)
+  <a href = "https://www.linkedin.com/in/meharajhasnain/">
+    <img src = "gif/linkedin.png">
+  </a>
 </div>
 
 ###
