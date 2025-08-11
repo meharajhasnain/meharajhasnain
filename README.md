@@ -66,9 +66,12 @@
 
 
 
-<p align="left">
+<p align="center">
     <a href="https://www.linkedin.com/in/meharajhasnain/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://t.me/haash9" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/haas9__/"_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
@@ -76,9 +79,7 @@
   <a href="https://www.facebook.com/meharaj.hasnain.2025"_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/>
   </a>
-  <a href="https://t.me/haash9" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40"/>
-  </a>
+
 </p>
 
 
