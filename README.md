@@ -64,7 +64,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=meharajhasnain.meharajhasnain&"  />
   <a href = "https://www.linkedin.com/in/meharajhasnain/">
-    <img src = "gif/linkedin.png">
+    <img src = "large/colored/linkedin.svg">
   </a>
 </div>
 
